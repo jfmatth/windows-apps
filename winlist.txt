@@ -1,0 +1,14 @@
+7zip.7zip
+
+Git                                    ARP\Machine\X64\Git_is1                 2.38.1                           
+PrivateInternetAccess.PrivateInternetA… 3.5.7+08120        3.6.1+08339   winget
+RedHat.VirtViewer                       11.0.256                         winget
+RedHat.Podman                           5.2.4              5.3.1         winget
+Canonical.Multipass                     1.14.0+win         1.14.1+win    winget
+OpenWhisperSystems.Signal               7.37.0                           winget
+FluxCD.Flux                             2.4.0                            winget
+Helm.Helm                               3.16.3             3.16.4        winget
+Hugo.Hugo                               0.139.0            0.140.2       winget
+RedHat.Podman-Desktop                   1.0.1              1.15.0        winget
+Balena.Etcher                           1.18.11            1.19.25       winget
+Microsoft.WSL                           2.2.4.0            2.3.26.0      winget
